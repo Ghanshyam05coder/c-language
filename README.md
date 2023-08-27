@@ -1,5 +1,5 @@
 # c-language
-# this is a c file of class work.
+this is a c file of class work.
 # Questions                                         
 # File name
 # WAP to print 1-100 no. on screen using while loop	wk.c
