@@ -3,14 +3,10 @@
 <table>
   <tr>
     <th>
-      <br>
-      <h6> Questions </h6>
-      <br>
+      <h2> Questions </h2>
     </th>
     <th>
-      <br>
-      <h5>File name</h5>
-    <br>
+      <h3>File name</h3>
     </th>
   </tr>
   <tr>
@@ -307,5 +303,6 @@
     <td>arr3.c</td>
   </tr>
 </table>
-<h4> I hope, you like this</h4>
-<h5>Ghanshyam05coder</h5>
+       <h4>I hope, you like this</h4>
+       <h5>Ghanshyam05coder</h5>
+
