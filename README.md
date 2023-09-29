@@ -2,12 +2,8 @@
 <p>In this ripo, all c language related programe.</p>
 <table>
   <tr>
-    <th>
-      <h2> Questions </h2>
-    </th>
-    <th>
-      <h3>File name</h3>
-    </th>
+    <th><h3> Questions </h3></th>
+    <th><h3>File name</h3></th>
   </tr>
   <tr>
     <td>WAP to print 1-100 no. on screen using while loop</td>
@@ -303,6 +299,6 @@
     <td>arr3.c</td>
   </tr>
 </table>
-       <h4>I hope, you like this</h4>
-       <h5>Ghanshyam05coder</h5>
-
+<h2>I hope, you like this</h2>
+<h1>Ghanshyam05coder</h1>
+     
