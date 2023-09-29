@@ -2,8 +2,16 @@
 <p>In this ripo, all c language related programe.</p>
 <table>
   <tr>
-    <th>Questions</th>
-    <th>File name</th>
+    <th>
+      <br>
+      <h6> Questions </h6>
+      <br>
+    </th>
+    <th>
+      <br>
+      <h5>File name</h5>
+    <br>
+    </th>
   </tr>
   <tr>
     <td>WAP to print 1-100 no. on screen using while loop</td>
@@ -143,61 +151,97 @@
   </tr>
   <tr>
     <td>WAP to print this pattern
+      <br>
 1
+<br>
 12
+      <br>
 123
+      <br>
 1234
+      <br>
 12345
+      <br>
 123456 ,using nested for loop</td>
     <td>nfs.c</td>
   </tr>
   <tr>
     <td>WAP to print this pattern
+      <br>
 1
+      <br>
 21
+      <br>
 321
+      <br>
 4321
+      <br>
 54321
+      <br>
 654321 ,using nested for loop	</td>
     <td>nfs1.c</td>
   </tr>
   <tr>
     <td>WAP to print this pattern
+      <br>
 654321
+      <br>
 54321
+      <br>
 4321
+      <br>
 321
+      <br>
 21
+      <br>
 1 ,using nested for loop	</td>
     <td>nfs2.c</td>
   </tr>
   <tr>
     <td>WAP to print this pattern
+      <br>
 1
+      <br>
 22
+      <br>
 333
+      <br>
 4444
+      <br>
 55555
+      <br>
 666666 ,using nested for loop	</td>
     <td>nfs3.c</td>
   </tr>
   <tr>
     <td>WAP to print this pattern
+      <br>
 ******
+      <br>
 *****
+      <br>
 ****
+      <br>
 ***
+      <br>
 **
+      <br>
 * ,using nested for loop	</td>
     <td>nfs4.c</td>
   </tr>
   <tr>
     <td>WAP to print this pattern
+      <br>
 123456
+      <br>
 12345
+      <br>
 1234
+      <br>
 123
+      <br>
 12
+      <br>
 1 ,using nested for loop	</td>
     <td>nfs5.c</td>
   </tr>
